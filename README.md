@@ -66,11 +66,11 @@ This code is available under the [MIT License](LICENSE).
 
 This code was developed following Developers.
 
-- 1. [Vraj Rana](https://github.com/vrcoder70)
-- 2. [Tirth Patel](https://github.com/tirthasheshpatel)
-- 3. [Yash Shah](https://github.com/YashDilipShah)
-- 4. [Shubham Sudhakar](https://github.com/shubhamX1438)
-- 5. [Mukesh Shah](https://github.com/jhamukesh998)
-- 6. [Tirth Patel](https://github.com/Tirth1306)
+- [Vraj Rana](https://github.com/vrcoder70)
+- [Tirth Patel](https://github.com/tirthasheshpatel)
+- [Yash Shah](https://github.com/YashDilipShah)
+- [Shubham Sudhakar](https://github.com/shubhamX1438)
+- [Mukesh Shah](https://github.com/jhamukesh998)
+- [Tirth Patel](https://github.com/Tirth1306)
 
 Feel free to modify and enhance this code to suit your specific needs or contribute to its development.
