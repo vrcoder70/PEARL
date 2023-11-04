@@ -1,0 +1,5 @@
+
+.tick > line{
+    opacity: 0.5;
+    stroke: rgb(86, 84, 84);
+}
